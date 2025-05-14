@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Typography, Paper } from '@mui/material';
 import Header from '../components/Header';
-import letter from '../assets/letter/letter1.jpg'; // <- make sure this path matches
+import letter from '../assets/letter/letter2.jpg'; // <- make sure this path matches
 
 function NotePage() {
   return (
